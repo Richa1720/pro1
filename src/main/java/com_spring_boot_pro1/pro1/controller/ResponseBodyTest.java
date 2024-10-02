@@ -19,6 +19,10 @@ public class ResponseBodyTest {
         return "id = "+id +" Name : "+name;
     }
 
+    /*Now this time adding java comments into the master branch
+    * .......................................................
+    * ..................................................
+    * .......and pushed to our remote */
 
     //passing object
     @RequestMapping("/resbodyobj")
